@@ -1,0 +1,194 @@
+country,beer_servings,spirit_servings,wine_servings,continent,sub_region
+Afghanistan,0,0,0,Asia,Southern Asia
+Albania,89,132,54,Europe,Southern Europe
+Azerbaijan,21,46,5,Asia,Western Asia
+Madagascar,26,15,4,Africa,Eastern Africa
+Malawi,8,11,1,Africa,Eastern Africa
+Malaysia,13,4,0,Asia,South-Eastern Asia
+Maldives,0,0,0,Asia,Southern Asia
+Mali,5,1,1,Africa,Western Africa
+Malta,149,100,120,Europe,Southern Europe
+Marshall Islands,0,0,0,Australia / Oceania,Oceania-Micronesia
+Mauritania,0,0,0,Africa,Western Africa
+Mauritius,98,31,18,Africa,Eastern Africa
+Mexico,238,68,5,North America,Central America
+Bahamas,122,176,51,North America,Caribbean
+Micronesia,62,50,18,Australia / Oceania,Oceania-Micronesia
+Monaco,0,0,0,Europe,Western Europe
+Mongolia,77,189,8,Asia,Eastern Asia
+Montenegro,31,114,128,Europe,Southern Europe
+Morocco,12,6,10,Africa,Northern Africa
+Mozambique,47,18,5,Africa,Eastern Africa
+Myanmar,5,1,0,Asia,Southeast Asia
+Namibia,376,3,1,Africa,Southern Africa
+Nauru,49,0,8,Australia / Oceania,Oceania-Micronesia
+Nepal,5,6,0,Asia,Southern Asia
+Bahrain,42,63,7,Asia,Western Asia
+Netherlands,251,88,190,Europe,Western Europe
+New Zealand,203,79,175,Australia / Oceania,Australia and New Zealand
+Nicaragua,78,118,1,North America,Central America
+Niger,3,2,1,Africa,Western Africa
+Nigeria,42,5,2,Africa,Western Africa
+Niue,188,200,7,Australia / Oceania,Oceania-Polynesia
+Norway,169,71,129,Europe,Northern Europe
+Oman,22,16,1,Asia,Western Asia
+Pakistan,0,0,0,Asia,Southern Asia
+Palau,306,63,23,Australia / Oceania,Oceania-Micronesia
+Bangladesh,0,0,0,Asia,Southern Asia
+Panama,285,104,18,North America,Central America
+Papua New Guinea,44,39,1,Australia / Oceania,Oceania-Melanesia
+Paraguay,213,117,74,South America,South America
+Peru,163,160,21,South America,South America
+Philippines,71,186,1,Asia,South-Eastern Asia
+Poland,343,215,56,Europe,Eastern Europe
+Portugal,194,67,339,Europe,Southern Europe
+Qatar,1,42,7,Asia,Western Asia
+South Korea,140,16,9,Asia,Eastern Asia
+Moldova,109,226,18,Europe,Eastern Europe
+Barbados,143,173,36,North America,Caribbean
+Romania,297,122,167,Europe,Eastern Europe
+Russian Federation,247,326,73,Europe,Eastern Europe
+Rwanda,43,2,0,Africa,Eastern Africa
+St. Kitts & Nevis,194,205,32,North America,Caribbean
+St. Lucia,171,315,71,North America,Caribbean
+St. Vincent & the Grenadines,120,221,11,North America,Caribbean
+Samoa,105,18,24,Australia / Oceania,Oceania-Polynesia
+San Marino,0,0,0,Europe,Southern Europe
+Sao Tome & Principe,56,38,140,Europe,Western Europe
+Saudi Arabia,0,5,0,Asia,Western Asia
+Belarus,142,373,42,Europe,Eastern Europe
+Senegal,9,1,7,Africa,Western Africa
+Serbia,283,131,127,Europe,Southern Europe
+Seychelles,157,25,51,Africa,Eastern Africa
+Sierra Leone,25,3,2,Africa,Western Africa
+Singapore,60,12,11,Asia,South-Eastern Asia
+Slovakia,196,293,116,Europe,Eastern Europe
+Slovenia,270,51,276,Europe,Southern Europe
+Solomon Islands,56,11,1,Australia / Oceania,Oceania-Melanesia
+Somalia,0,0,0,Africa,Eastern Africa
+South Africa,225,76,81,Africa,Southern Africa
+Belgium,295,84,212,Europe,Western Europe
+Spain,284,157,112,Europe,Southern Europe
+Sri Lanka,16,104,0,Asia,Southern Asia
+Sudan,8,13,0,Africa,Northern Africa
+Suriname,128,178,7,South America,South America
+Swaziland,90,2,2,Africa,Southern Africa
+Sweden,152,60,186,Europe,Northern Europe
+Switzerland,185,100,280,Europe,Western Europe
+Syria,5,35,16,Asia,Western Asia
+Tajikistan,2,15,0,Asia,Central Asia
+Thailand,99,258,1,Asia,South-Eastern Asia
+Belize,263,114,8,North America,Central America
+Macedonia,106,27,86,Europe,Southern Europe
+Timor-Leste,1,1,4,Asia,Southeast Asia
+Togo,36,2,19,Africa,Western Africa
+Tonga,36,21,5,Australia / Oceania,Oceania-Polynesia
+Trinidad & Tobago,197,156,7,South America,Caribbean
+Tunisia,51,3,20,Africa,Northern Africa
+Turkey,51,22,7,Asia,Western Asia
+Turkmenistan,19,71,32,Asia,Central Asia
+Tuvalu,6,41,9,Australia / Oceania,Oceania-Polynesia
+Uganda,45,9,0,Africa,Eastern Africa
+Benin,34,4,13,Africa,Western Africa
+Ukraine,206,237,45,Europe,Eastern Europe
+United Arab Emirates,16,135,5,Asia,Western Asia
+United Kingdom,219,126,195,Europe,Northern Europe
+Tanzania,36,6,1,Africa,Eastern Africa
+USA,249,158,84,North America,North America
+Uruguay,115,35,220,South America,South America
+Uzbekistan,25,101,8,Asia,Central Asia
+Vanuatu,21,18,11,Australia / Oceania,Oceania-Melanesia
+Venezuela,333,100,3,South America,South America
+Vietnam,111,2,1,Asia,South-Eastern Asia
+Bhutan,23,0,0,Asia,Southern Asia
+Yemen,6,0,0,Asia,Western Asia
+Zambia,32,19,4,Africa,Southern Africa
+Zimbabwe,64,18,4,Africa,Southern Africa
+Algeria,25,0,14,Africa,Northern Africa
+Bolivia,167,41,8,South America,South America
+Bosnia-Herzegovina,76,173,8,Europe,Southern Europe
+Botswana,173,35,35,Africa,Southern Africa
+Brazil,245,145,16,South America,South America
+Brunei,31,2,1,Asia,South-Eastern Asia
+Bulgaria,231,252,94,Europe,Eastern Europe
+Burkina Faso,25,7,7,Africa,Western Africa
+Burundi,88,0,0,Africa,Eastern Africa
+Cote d'Ivoire,37,1,7,Africa,Western Africa
+Cabo Verde,144,56,16,Africa,Western Africa
+Andorra,245,138,312,Europe,Southern Europe
+Cambodia,57,65,1,Asia,South-Eastern Asia
+Cameroon,147,1,4,Africa,Middle Africa
+Canada,240,122,100,North America,Northern America
+Central African Republic,17,2,1,Africa,Middle Africa
+Chad,15,1,1,Africa,Middle Africa
+Chile,130,124,172,South America,South America
+China,79,192,8,Asia,Eastern Asia
+Colombia,159,76,3,South America,South America
+Comoros,1,3,1,Africa,Eastern Africa
+Congo,76,1,9,Africa,Central Africa
+Angola,217,57,45,Africa,Middle Africa
+Cook Islands,0,254,74,Australia / Oceania,Oceania-Polynesia
+Costa Rica,149,87,11,North America,Central America
+Croatia,230,87,254,Europe,Southern Europe
+Cuba,93,137,5,North America,Caribbean
+Cyprus,192,154,113,Asia,Southern Asia
+Czech Republic,361,170,134,Europe,Eastern Europe
+North Korea,0,0,0,Asia,Eastern Asia
+DR Congo,32,3,1,Africa,Central Africa
+Denmark,224,81,278,Europe,Northern Europe
+Djibouti,15,44,3,Africa,Eastern Africa
+Antigua & Barbuda,102,128,45,North America,Caribbean
+Dominica,52,286,26,North America,Caribbean
+Dominican Republic,193,147,9,North America,Caribbean
+Ecuador,162,74,3,South America,South America
+Egypt,6,4,1,Africa,Northern Africa
+El Salvador,52,69,2,North America,Central America
+Equatorial Guinea,92,0,233,Africa,Middle Africa
+Eritrea,18,0,0,Africa,Eastern Africa
+Estonia,224,194,59,Europe,Northern Europe
+Ethiopia,20,3,0,Africa,Eastern Africa
+Fiji,77,35,1,Australia / Oceania,Oceania-Melanesia
+Argentina,193,25,221,South America,South America
+Finland,263,133,97,Europe,Northern Europe
+France,127,151,370,Europe,Western Europe
+Gabon,347,98,59,Africa,Middle Africa
+Gambia,8,0,1,Africa,West Africa
+Georgia,52,100,149,Asia,Western Asia
+Germany,346,117,175,Europe,Western Europe
+Ghana,31,3,10,Africa,Western Africa
+Greece,133,112,218,Europe,Southern Europe
+Grenada,199,438,28,North America,Caribbean
+Guatemala,53,69,2,North America,Central America
+Armenia,21,179,11,Asia,Western Asia
+Guinea,9,0,2,Africa,Western Africa
+Guinea-Bissau,28,31,21,Africa,Western Africa
+Guyana,93,302,1,South America,South America
+Haiti,1,326,1,North America,Caribbean
+Honduras,69,98,2,North America,Central America
+Hungary,234,215,185,Europe,Eastern Europe
+Iceland,233,61,78,Europe,Northern Europe
+India,9,114,0,Asia,Southern Asia
+Indonesia,5,1,0,Asia,South-Eastern Asia
+Iran,0,0,0,Asia,Western Asia
+Australia,261,72,212,Australia / Oceania,Australia and New Zealand
+Iraq,9,3,0,Asia,Western Asia
+Ireland,313,118,165,Europe,Northern Europe
+Israel,63,69,9,Asia,Western Asia
+Italy,85,42,237,Europe,Southern Europe
+Jamaica,82,97,9,North America,Caribbean
+Japan,77,202,16,Asia,Eastern Asia
+Jordan,6,21,1,Asia,Western Asia
+Kazakhstan,124,246,12,Asia,Central Asia
+Kenya,58,22,2,Africa,Eastern Africa
+Kiribati,21,34,1,Australia / Oceania,Oceania-Micronesia
+Austria,279,75,191,Europe,Western Europe
+Kuwait,0,0,0,Asia,Western Asia
+Kyrgyzstan,31,97,6,Asia,Central Asia
+Laos,62,0,123,Asia,South-Eastern Asia
+Latvia,281,216,62,Europe,Northern Europe
+Lebanon,20,55,31,Asia,Western Asia
+Lesotho,82,29,0,Africa,Southern Africa
+Liberia,19,152,2,Africa,Western Africa
+Libya,0,0,0,Africa,Northern Africa
+Lithuania,343,244,56,Europe,Northern Europe
+Luxembourg,236,133,271,Europe,Western Europe
